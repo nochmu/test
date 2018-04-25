@@ -5,7 +5,7 @@ describe('Test', function() {
         });
     });
     describe('second()', function() {
-        it('should run with error', function() {
+        it('should run without error', function() {
             console.log("Hallo");
             //
           //  throw new Error("Buh!");
