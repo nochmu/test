@@ -8,7 +8,7 @@ describe('Test', function() {
         it('should run without error', function() {
             console.log("Hallo");
             //
-            throw new Error("Buh!");
+         //   throw new Error("Buh!");
         });
     });
 });
